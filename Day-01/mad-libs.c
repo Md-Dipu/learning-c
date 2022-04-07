@@ -26,7 +26,10 @@ int main()
     scanf("%[^\n]", celebrity);
 
     // printing
-    printf("\nMy name is %s. \nI favorite color is %s. \nMy favorite number is %d. \nI love %s.", name, color, favorite_number, celebrity);
+    printf("\nMy name is %s. \n"
+           "I favorite color is %s. \n"
+           "My favorite number is %d. \nI love %s.",
+           name, color, favorite_number, celebrity);
 
     return 0;
 }
