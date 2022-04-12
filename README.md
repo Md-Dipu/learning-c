@@ -1,4 +1,4 @@
-## Documentation: Learning Basics C Programing
+## Documentation: Learning Basics of C Programing
 
 <!-- short description -->
 This is a 7-day plan to learn the basics of C language and make some simple projects. Learning the very basics of wiring a c program is the main goal.
