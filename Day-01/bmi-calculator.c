@@ -10,7 +10,7 @@ int main()
     printf("Enter your height: ");
     scanf("%f'%f\"", &height_foot, &height_inch);
 
-    height_foot += height_inch / 12;
+    height_foot = height_foot + height_inch / 12;
     float height = height_foot * 0.3048; // converting foot to meter
     float bmi = weight / (height * height);
 
