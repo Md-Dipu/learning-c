@@ -17,7 +17,7 @@ Day one is mainly for starting C programming. Also, learn about variables and nu
 
 > Day 02
 
-Day two is to learn about condition operation and decision-making system with if-else and switch.
+Day two for learning conditional statements with if-else and switch. Conditional Statements are used to make decisions based on the conditions. So it's a feature of C to control program flow.
 
 - If-else, else-if and nexted if-else
 - Logical operator
