@@ -26,9 +26,10 @@ Day two for learning conditional statements with if-else and switch. Conditional
 
 > Day 03
 
-Day three is for three topics loops, function, and libraries. Learning about basic loops while-loop and for-loop, break and continue, basics of function, and some useful standard libraries and their functions, basics of custom library are the main part of day three.
+Day three is for three topics loops, function, and libraries. Learning about basic loops like while-loop, do-while and for-loop, break and continue, basics of function, and some useful standard libraries and their functions, basics of custom library are the main part of day three.
 
 - while-loop
+- do-while
 - for-loop
 - Nexted loop
 - Basics of function
