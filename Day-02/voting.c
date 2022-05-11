@@ -12,7 +12,7 @@ int main()
     }
     else
     {
-        printf("You're not eligible.");
+        printf("You're eligible.");
 
         int choice;
         printf("1. Sadman\n");
