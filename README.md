@@ -43,3 +43,15 @@ Day four is for learning arrays and structure, use of typedef to define a custom
 - Arrays
 - Structure
 - typedef
+
+> Day 05
+
+Day five is for problem-solving in c. The problems are very easy and simply suitable for beginners.
+
+- Reverse string
+- Transform string to uppercase and lowercase
+- Sum all the numbers in an array
+- Sort array of number
+- Count vowel in the string
+- Count total marks boys and girls from the list
+- Count working days
