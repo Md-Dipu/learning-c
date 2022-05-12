@@ -55,3 +55,9 @@ Day five is for problem-solving in c. The problems are very easy and simply suit
 - Count vowel in the string
 - Count total marks boys and girls from the list
 - Count working days
+
+> Day 6
+
+Day six is for project one which is a two-player mood console game name tic tac tao.
+
+- Project 1: Tic tac tao (Game: 2 player mood)
