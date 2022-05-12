@@ -61,3 +61,9 @@ Day five is for problem-solving in c. The problems are very easy and simply suit
 Day six is for project one which is a two-player mood console game name tic tac tao.
 
 - Project 1: Tic tac tao (Game: 2 player mood)
+
+> Day 7
+
+Day seven and the final day is for project two which is a console application to register new students with their details. The project title is Student Register.
+
+- Project 2: Student Register
