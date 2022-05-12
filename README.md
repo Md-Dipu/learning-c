@@ -6,7 +6,7 @@ This is a 7-day plan to learn the basics of C language and make some simple proj
 
 <!-- plan structure -->
 
-> Day 01
+> Day 1
 
 Day one is mainly for starting C programming. Also, learn about variables and numbers. And general mathematical operation.
 
@@ -15,7 +15,7 @@ Day one is mainly for starting C programming. Also, learn about variables and nu
 - Working with numbers: Mathematical Operator
 - Common Errors
 
-> Day 02
+> Day 2
 
 Day two for learning conditional statements with if-else and switch. Conditional Statements are used to make decisions based on the conditions. So it's a feature of C to control program flow.
 
@@ -24,7 +24,7 @@ Day two for learning conditional statements with if-else and switch. Conditional
 - Ternary operator
 - Switch
 
-> Day 03
+> Day 3
 
 Day three is for three topics loops, function, and libraries. Learning about basic loops like while-loop, do-while, and for-loop, break and continue, basics of function, and some useful standard libraries and their functions, basics of custom library are the main part of day three.
 
@@ -36,7 +36,7 @@ Day three is for three topics loops, function, and libraries. Learning about bas
 - Standard libraries
 - Basics of custom library
 
-> Day 04
+> Day 4
 
 Day four is for learning arrays and structure, use of typedef to define a custom type.
 
@@ -44,7 +44,7 @@ Day four is for learning arrays and structure, use of typedef to define a custom
 - Structure
 - typedef
 
-> Day 05
+> Day 5
 
 Day five is for problem-solving in c. The problems are very easy and simply suitable for beginners.
 
