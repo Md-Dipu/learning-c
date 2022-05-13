@@ -8,7 +8,7 @@ int main()
     int times_counter = 0;
     bool win_status = false;
 
-    while (!win_status && times_counter <= 3)
+    while (!win_status && times_counter < 3)
     {
         printf("Guess the magic number (%d/3): ", ++times_counter);
         scanf("%d", &my_number);
