@@ -43,6 +43,7 @@ Day four is for learning arrays and structure, use of typedef to define a custom
 - Arrays
 - Structure
 - typedef
+- Pointer
 
 > Day 5
 
