@@ -38,7 +38,7 @@ Day three is for three topics loops, function, and libraries. Learning about bas
 
 > Day 4
 
-Day four is for learning arrays and structure, use of typedef to define a custom type.
+Day four is for learning arrays and structure, use of typedef to define a custom type and pointer.
 
 - Arrays
 - Structure
