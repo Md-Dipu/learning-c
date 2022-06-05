@@ -1,27 +1,47 @@
 #include <stdio.h>
 #include <stdbool.h>
+#include <stdlib.h>
+#include <conio.h>
 
 int main()
 {
+    int magic_number;
     int my_number;
-    int magic_number = 4;
-    int times_counter = 0;
+    int time_counter = 0;
     bool win_status = false;
 
-    while (!win_status && times_counter < 3)
+    while (true)
     {
-        printf("Guess the magic number (%d/3): ", ++times_counter);
-        scanf("%d", &my_number);
+        printf("Enter a magic number (0-9): ");
+        magic_number = getch() - 48;
+        system("cls"); // cls for windows and clear for linux
 
-        win_status = (my_number == magic_number) ? true : false;
-        if (win_status)
+        if (magic_number >= 0 && magic_number <= 9)
             break;
     }
 
-    if (win_status)
-        printf("\nYour Won! You guess the right number!");
+    while (time_counter < 3)
+    {
+        printf("Guess the magic number (%d/3): ", time_counter + 1);
+        scanf("%d", &my_number);
+
+        if (my_number == magic_number)
+        {
+            win_status = true;
+            break;
+        }
+
+        time_counter++;
+    }
+
+    if (win_status == true)
+    {
+        printf("You Win!");
+    }
     else
-        printf("\nYou lose! The magic number is %d", magic_number);
+    {
+        printf("Your lose!");
+    }
 
     return 0;
 }
