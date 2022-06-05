@@ -2,18 +2,20 @@
 
 int main()
 {
-    int n, sum = 0;
-    scanf("%d", &n);
+    // int n = 0;
 
-    for (int i = 1; i <= n; i++)
+    // while (n < 10)
+    // {
+    //     printf("%d. I love to write program in C.\n", n);
+
+    //     n++;
+    // }
+
+    int n;
+    for (n = 0; n < 10; n++)
     {
-        sum += i;
-        if (i == 1)
-            printf("%d ", i);
-        else
-            printf("+ %d ", i);
+        printf("%d. I love to write program in C.\n", n);
     }
 
-    (n > 0) ? printf("= %d", sum) : printf("You entered less than 1");
     return 0;
 }
