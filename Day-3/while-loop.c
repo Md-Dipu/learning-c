@@ -2,17 +2,41 @@
 
 int main()
 {
-    int n, sum = 0;
+
+    // printf("I love Bangladesh!\n");
+    // printf("I love Bangladesh!\n");
+    // printf("I love Bangladesh!\n");
+    // printf("I love Bangladesh!\n");
+    // printf("I love Bangladesh!\n");
+    // printf("I love Bangladesh!\n");
+    // printf("I love Bangladesh!\n");
+    // printf("I love Bangladesh!\n");
+    // printf("I love Bangladesh!\n");
+    // printf("I love Bangladesh!\n");
+
+    // int i = 1;
+    // while (i <= 10)
+    // {
+    //     printf("%d. I love Bangladesh!\n", i);
+    //     i++;
+    // }
+
+    int n;
+    printf("How many times your want to calculate: ");
     scanf("%d", &n);
 
-    int loop_count = 0;
-    while (n > 0)
+    while (n--) // 4
     {
-        sum += n--;
-        loop_count++;
+        int a, b;
+        printf("Value of n is %d\n", n); // 3
+        printf("Enter 1st number: ");
+        scanf("%d", &a);
+        printf("Enter 2nd number: ");
+        scanf("%d", &b);
+
+        int sum = a + b;
+        printf("Sum is %d\n\n", sum);
     }
 
-    printf("Sum is %d\n", sum);
-    printf("Loop execute %d times", loop_count);
     return 0;
 }

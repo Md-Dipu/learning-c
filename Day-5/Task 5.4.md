@@ -1,10 +1,9 @@
-### Sort array of number
+### Sum all the numbers in an array
 
-Given an incomplete program, you have to complete, now sort an array of number named **_arr_** from lowest to highest.
+Given an incomplete program, you have to complete, count sum of all the elements of array named **_arr_** and displaying the result.
 
 ```
 #include <stdio.h>
-#include <stdbool.h>
 
 int main()
 {
@@ -12,22 +11,19 @@ int main()
     scanf("%d", &n);
 
     int arr[n];
-    for (int i = 0; i < n; i++)
+    for (int i = 0; i < n; ++i)
         scanf("%d", &arr[i]);
 
-    // Write your code here
+    // Write your code here.
 
-    for (int i = 0; i < n; i++)
-        printf("%d ", arr[i]);
     return 0;
 }
 ```
 
 #### Checklist
 
-1. Sort the numbers of **_arr_**.
-2. Sorting should be lowest to highest.
-3. Make changes of **_arr_**.
+1. Count sum of all the numbers/element of **_arr_**.
+2. Display the result on screen.
 
 #### Test Cases
 
@@ -35,37 +31,37 @@ int main()
 
 ```
 5
-90 78 19 11 63
+23 89 21 51 19
 ```
 
 **Case 0** (_output_):
 
 ```
-11 19 63 78 90
+203
 ```
 
 **Case 1** (_input_):
 
 ```
-6
-2 3 9 0 1 2
+7
+106 72 129 298 85 9 61
 ```
 
 **Case 1** (_output_):
 
 ```
-0 1 2 2 3 9
+760
 ```
 
 **Case 2** (_input_):
 
 ```
-9
-6 2 -1 4 0 1 4 5 3
+10
+11 -90 34 19 41 -6 0 50 45 -11
 ```
 
 **Case 1** (_output_):
 
 ```
--1 0 1 2 3 4 4 5 6
+93
 ```

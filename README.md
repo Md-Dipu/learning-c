@@ -26,45 +26,43 @@ Day two for learning conditional statements with if-else and switch. Conditional
 
 > Day 3
 
-Day three is for three topics loops, function, and libraries. Learning about basic loops like while-loop, do-while, and for-loop, break and continue, basics of function, and some useful standard libraries and their functions, basics of custom library are the main part of day three.
+Day three is for loops. The central part of day three is learning about basic loops like while-loop, do-while, and for-loop, nested loop with while and for, break and continue.
 
 - while-loop
 - do-while
 - for-loop
 - Nested loop
-- Basics of function
-- Standard libraries
-- Basics of custom library
 
 > Day 4
 
-Day four is for learning arrays and structure, use of typedef to define a custom type and pointer.
+Day four is for learning array and string. Declaring, initiation, and use of array and string are day five topics.
 
-- Arrays
-- Structure
-- typedef
-- Pointer
+- 1D Arrays
+- 2D Arrays
+- String
 
 > Day 5
 
-Day five is for problem-solving in c. The problems are very easy and simply suitable for beginners.
+Day five is for function. How to declare and call a function, and use of parameters, return of function is the central part of day five.
 
-- Reverse string
-- Transform string to uppercase and lowercase
-- Sum all the numbers in an array
-- Sort array of number
-- Count vowel in the string
-- Count total marks boys and girls from the list
-- Count working days
+- What is a function?
+- Declaring and Calling
+- Parameters
+- return and void function
 
 > Day 6
 
-Day six is for project one which is a two-player mood console game name tic tac tao.
+Day six is for problem-solving in c. The problems are very easy and simple, suitable for beginners.
 
-- Project 1: Tic tac tao (Game: 2 player mood)
+- Reverse string
+- Transform string to uppercase and lowercase
+- Count vowel in the string
+- Sum all the numbers in an array
+- Matching array of numbers
+- Count total marks boys and girls
 
 > Day 7
 
-Day seven and the final day is for project two which is a console application to register new students with their details. The project title is Student Register.
+Day saven is for project which is a two-player mood console game name tic tac tao.
 
-- Project 2: Student Register
+- Project: Tic tac tao (Game: 2 player mood)
