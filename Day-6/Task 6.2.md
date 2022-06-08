@@ -17,7 +17,7 @@ char trans_tolower(char ch) {
 int main()
 {
     char str[100];
-    scanf("%[^\n]%*c", &str);
+    scanf("%[^\n]", str);
 
     char upper_str[100];
     char lower_str[100];
