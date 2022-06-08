@@ -58,7 +58,6 @@ Day six is for problem-solving in c. The problems are very easy and simple, suit
 - Transform string to uppercase and lowercase
 - Count vowel in the string
 - Sum all the numbers in an array
-- Matching array of numbers
 - Count total marks boys and girls
 
 > Day 7
