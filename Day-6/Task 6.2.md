@@ -22,7 +22,7 @@ int main()
     char upper_str[100];
     char lower_str[100];
 
-    for (int i = 0; i < (int)strlen(str); ++i) {
+    for (int i = 0; i < strlen(str); ++i) {
         // Write your code here
     }
 
